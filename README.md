@@ -1,1 +1,1 @@
-# CIS-3490-The-Analysis-and-Design-of-Computer-Algorithms
+The design and analysis of efficient computer algorithms are studied. Topics which will be studied include: standard methodologies, asymptotic behaviour, optimality, lower bounds, implementation considerations, graph algorithms, matrix computations (e.g. Strassen's method), NP-completeness.
